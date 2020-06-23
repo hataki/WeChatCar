@@ -2,6 +2,7 @@ package com.ne.weixincar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Configuration;
 
 /**
  * @Author: hataki
@@ -9,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Time: 9:23
  * description:
  */
+@Configuration
 @SpringBootApplication
 public class WeixincarApplication {
     public static void main(String[] args) {

@@ -4,7 +4,7 @@ App({
     wxOpenId: "",
     avatarurl: "",
     nickName:"",
-      ownersign:"xydfeahfhduafejia",
+     
     // netUrl:"http://ndyx.kingfor.top/onlearn/app/",
     // imageUrl:"http://ndyx.kingfor.top/onlearn/",
     netUrl: "http://localhost:8888/onlearn/app/",
